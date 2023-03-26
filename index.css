@@ -91,6 +91,20 @@ line-height: 28px;
 p slide-left{
     animation-delay: 1s;
 }
+@media screen and (max-width:600px)
+{
+    .content h1{
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .header{
+        background-image:url(movie\ 3.jpg)
+    }
+}
+@media screen and (max-width:900px) and (min-width:600px)
+{
+   /* add css for tablets screen size*/
+}
 
 
 
