@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 3px;
+}
+h1{
+    font-size: 70px;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color:black;
+    text-align: start;
+}
+img{
+    height: 300px;
+    width: 320px;
+}
+h3{
+    font-size:30px ;
+    color:black;
+    text-align: start;
+}
+h4{
+    font-size: 40px;
+    color: black;
+    text-align: start;
+}
+
+video{
+    height: 300px;
+    width: 320px
+}
+a{
+    display: inline-block;
+    padding: 1% 2%;
+    border: none;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+h6{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+body{
+    background-color:white ;
+    opacity: 1;
+}
+
